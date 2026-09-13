@@ -11,6 +11,7 @@
 ├── nlp_pipeline.py      # Токенизация → Эмбеддинги → Softmax
 ├── dataset_part1.txt    # Датасет диалогов (часть 1)
 ├── dataset_part2.txt    # Датасет диалогов (часть 2)
+├── dataset_part3.txt    # Датасет диалогов (часть 3)
 └── vocabulary.txt       # Словарь для NLP пайплайна
 ```
 
